@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Nathan Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=nhatntn&show_icons=true&theme=merko)](https://github.com/nhatntn)
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatntn&layout=compact&theme=merko)](https://github.com/nhatntn)
